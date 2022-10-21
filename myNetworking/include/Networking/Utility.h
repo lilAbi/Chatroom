@@ -1,0 +1,9 @@
+
+#ifndef CLIENTSERVERCHATROOM_UTILITY_H
+#define CLIENTSERVERCHATROOM_UTILITY_H
+
+struct SuperInt{
+    int value{};
+};
+
+#endif //CLIENTSERVERCHATROOM_UTILITY_H
